@@ -4,5 +4,5 @@
 
 ## Коаны
 
-* [Стул с тремя ножками](coans/stul_s_tremya_nozhkami.md)
 * [Во благо](coans/vo_blago.md)
+* [Стул с тремя ножками](coans/stul_s_tremya_nozhkami.md)
